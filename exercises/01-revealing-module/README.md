@@ -33,7 +33,7 @@ b) Private properties and methods:
   - `colors: Array<string>`
   - any other properties and methods you need
 
-Export only public methods. Use **default export**.
+Export only public methods. Use **named export**.
 
 2) Import module
 
