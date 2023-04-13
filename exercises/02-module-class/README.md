@@ -19,7 +19,7 @@ colorsGenerator.get(); // returns ['green']
 colorsGenerator.get(); // returns ['blue']
 colorsGenerator.get(); // returns ['red']
 colorsGenerator.get(2); // returns ['red', 'green']
-colorsGenerator.get(); // returns ['red']
+colorsGenerator.get(); // returns ['green']
 colorsGenerator.reset();
 colorsGenerator.get(1); // returns ['red']
 colorsGenerator.get(1); // returns ['green']
